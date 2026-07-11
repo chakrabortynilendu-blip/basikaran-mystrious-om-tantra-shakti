@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://chakrabortynilendu-blip.github.io/basikaran-mystrious-om-tantra-shakti/sitemap.xml
